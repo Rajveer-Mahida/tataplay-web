@@ -1,10 +1,10 @@
 # Tataplay Live and Catchup Web
 
 ## Features 🔶 
-    - Made With React.
-    - 500+ Live TV Channels Support.
-    - Upto 7 Days Catchup To Watch Your Favorite Shows.
-    - No Account Required
+- Made With React.
+- 500+ Live TV Channels Support.
+- Upto 7 Days Catchup To Watch Your Favorite Shows.
+- No Account Required
 
 
 ## SnapPick
