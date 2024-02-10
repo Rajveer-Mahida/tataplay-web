@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.jwplayer {
+  position: absolute !important;
+}
+
+.jwplayer.jw-flag-aspect-mode {
+  min-height: 100%;
+  max-height: 100%;
+}
+.jw-title .jw-title-primary {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.jw-title .jw-title-secondary {
+  font-size: 1rem;
+  font-weight: 300;
+  margin-bottom: 0.5rem;
+  text-wrap: wrap;
+}
+
+.jw-text-live {
+  position: relative !important;
+  font-size: 12px;
+  text-align: center;
+}
+
+.jw-text-live:before {
+  width: 10px !important;
+  height: 10px !important;
+  background: #ff0000 !important;
+}
