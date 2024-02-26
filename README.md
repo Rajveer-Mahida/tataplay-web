@@ -6,6 +6,18 @@
 - Upto 7 Days Catchup To Watch Your Favorite Shows.
 - No Account Required
 
+## How to Start
+1. Make Sure you have installed Latest Version of Node. 
+    Download and Install the node from https://nodejs.org/en/download
+2. Open the Directory in terminal
+3. Run commands
+```
+    npm install 
+```
+```
+    npm run dev
+```
+4. Opne the url in browser http://localhost:5173/
 
 ## SnapPick
 
