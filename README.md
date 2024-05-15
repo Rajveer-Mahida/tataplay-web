@@ -1,4 +1,7 @@
+### 🔴 If You want to make the project work again share with me the one active account so I can modify the code with new apis. You can contact me by email. 🔴
+
 # Tataplay Live and Catchup Web
+
 
 ## Features 🔶 
 - Made With React.
